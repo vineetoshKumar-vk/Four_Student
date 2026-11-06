@@ -1,1 +1,2 @@
 Feature Page Introduce
+Registration functionality completed
